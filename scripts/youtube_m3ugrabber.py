@@ -1,16 +1,5 @@
 #! /usr/bin/python3
 
-banner = r'''
-###########################################################################
-#      ____ 	____    _____                                             #
-#     |  _ \   |       |  _   \                                           #
-#     | |_) |  |____   | |_|  |                                           #
-#     |  __/        |  |  _   /                                           #
-#     |_|       ____|  |_| |__\                                           #
-#                                                                         #
-#                                  >> https://github.com/ZazerConer       #
-###########################################################################
-'''
 
 import requests
 import os
@@ -44,12 +33,17 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
+    streams = s.get(link[start:end]).text.split('#EXT')
+    hd = streams[-1].strip()
+    st = hd.find('http')
+    print(hd[st:].strip())
+    #print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml"')
-print(banner)
+print('#EXTM3U')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('../youtube_channel_info.txt') as f:
+with open('../8fm_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -60,7 +54,6 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
             
