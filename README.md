@@ -1,4 +1,4 @@
-# YouTube_to_m3u
+## YouTube_to_m3u8
 
 **_M3U generator for YouTube_**
 
