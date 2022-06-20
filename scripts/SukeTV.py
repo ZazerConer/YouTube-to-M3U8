@@ -15,13 +15,13 @@ def grab(url):
         response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/ZazerConer/YouTube_to_m3u/main/assets/info.m3u8')
+                print('https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/ZazerConer/YouTube_to_m3u/main/assets/info.m3u8')
+                print('https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
