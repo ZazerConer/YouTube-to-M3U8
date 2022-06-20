@@ -13,10 +13,10 @@ banner = r'''
 
 
 
-#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", Playlist is for Free
+#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/eoRVb0I.jpg" tvg-id="", Playlist is for Free
 https://raw.githubusercontent.com/ZazerConer/UTLive/main/assets/info.m3u8
 #EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/fMZRciY.jpg" tvg-id="", Suke TV
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
 ,,,
 
 import requests
