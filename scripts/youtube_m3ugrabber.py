@@ -12,13 +12,6 @@ banner = r'''
 ###########################################################################
 '''
 
-
-#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/eoRVb0I.jpg" tvg-id="", Playlist is for Free
-https://raw.githubusercontent.com/ZazerConer/UTLive/main/assets/info.m3u8
-#EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/fMZRciY.jpg" tvg-id="", Suke TV
-
-'''
-
 import requests
 import os
 import sys
