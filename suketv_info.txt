@@ -1,4 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Suke TV | Malaysia | https://i.imgur.com/fMZRciY.jpg | https://www.youtube.com/channel/rCB9gnNU1Ts/live
+1 | 1 | | 
+https://www.youtube.com/channel/rCB9gnNU1Ts/live
