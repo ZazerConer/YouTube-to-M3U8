@@ -11,5 +11,5 @@
 <br>
 <hr>
 
-## Credits and full description: <P><a href="https://github.com/benmoose39/YouTube_to_m3u">benmoose39</a></p>
+### Credits and full description: <P><a href="https://github.com/benmoose39/YouTube_to_m3u">benmoose39</a></p>
 
