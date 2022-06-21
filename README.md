@@ -2,7 +2,7 @@
 
 **_M3U generator for YouTube_**
 
-![SukeTV Status](https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/.github/workflows/SukeTV.yml/https://img.shields.io/travis/rust-lang/rust/master.svg)
+![SukeTV Status](https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/.github/workflows/SukeTV.yml/badge.svg/event=push)
 
 * Updated m3u links of YouTube live channels, auto-updated every 3 hours.
 
