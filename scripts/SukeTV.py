@@ -40,8 +40,7 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"')
+print('#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/fMZRciY.jpg", Suke TV"')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
     for line in f:
