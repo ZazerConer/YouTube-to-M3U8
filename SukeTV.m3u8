@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/fMZRciY.jpg", Suke TV
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2179072
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1655846241/ei/AeGxYt2VHpCWkwaLjKiABg/ip/20.125.125.128/id/rCB9gnNU1Ts.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-5uaezned.googlevideo.com/spc/4ocVCxT4NHw79bjSPublLgyOs5YoN6k/vprv/1/playlist_type/LIVE/mh/3Q/mm/44/mn/sn-5uaezned/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1655824494/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhANrRJTYhw7XL_5vkJYUebiANrU7jVYuluwUUXuYPgtTyAiEAyXcrWI8NwT32kri6xpiX40r9HhObqzffpxmp5ODdcyM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgEx1v_lstGHEmlK7svBvrlwYXxLijfHCykMfgW-Vc5oUCIDwwEoR8U2RIjA5nfTfvHYEBiBRDDd6eEuyIfK1WiJ1a/playlist/index.m3u8
