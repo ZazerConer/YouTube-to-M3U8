@@ -1,4 +1,4 @@
-![SukeTV Status](https://github.com/ZazerConer/YouTube-to-M3U8/actions/badge.svg)
+![SukeTV Status](https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/SukeTV.yml/badge.svg)
 
 ## YouTube_to_m3u8
 
