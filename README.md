@@ -2,7 +2,7 @@
 
 **_M3U generator for YouTube_**
 
-**-Updated m3u links of YouTube live channels, auto-updated every 3 hours.**
+*Updated m3u links of YouTube live channels, auto-updated every 3 hours.
 
 ### URL Channel
 
