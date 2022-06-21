@@ -2,6 +2,8 @@
 
 **_M3U generator for YouTube_**
 
+![SukeTV Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
 * Updated m3u links of YouTube live channels, auto-updated every 3 hours.
 
 ### URL Channel
