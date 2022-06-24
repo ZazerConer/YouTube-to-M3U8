@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 astro.py > ../playlist.m3u8
+python3 astro.py > ../playlist.m3u
 
 echo m3u grabbed
