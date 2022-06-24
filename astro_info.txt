@@ -2,7 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-
 Supersports 1 | Astro | https://i.imgur.com/SyUw2OI.png | 
 http://fortv.cc:8080/shay/shay/122349
 
