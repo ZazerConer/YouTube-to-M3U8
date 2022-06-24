@@ -2,16 +2,16 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Supersports 1 | Astro | https://i.imgur.com/SyUw2OI.png | 
-https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp1/index.m3u8
+http://fortv.cc:8080/shay/shay/122349
 
 Supersports 2 | Astro | https://i.imgur.com/OXXHlYf.png | 
-https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp2/index.m3u8
+http://fortv.cc:8080/shay/shay/122350
 
 Supersports 3 | Astro | https://i.imgur.com/AXeh66B.png | 
-https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp3/index.m3u8
+http://fortv.cc:8080/shay/shay/122351
 
 Supersports 4 | Astro | https://i.imgur.com/SGkmCB9.png | 
-https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp4/index.m3u8
+http://fortv.cc:8080/shay/shay/122352
 
 Supersports 5 | Astro | https://i.imgur.com/1eAGghE.png | 
-https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp5/index.m3u8
+http://fortv.cc:8080/shay/shay/122353
