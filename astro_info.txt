@@ -1,17 +1,17 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Supersports 1 | Malaysia |  | 
+Supersports 1 | Astro |  | 
 https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp1/index.m3u8
 
-Supersports 2 | Malaysia |  | 
+Supersports 2 | Astro |  | 
 https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp2/index.m3u8
 
-Supersports 3 | Malaysia |  | 
+Supersports 3 | Astro |  | 
 https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp3/index.m3u8
 
-Supersports 4 | Malaysia |  | 
+Supersports 4 | Astro |  | 
 https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp4/index.m3u8
 
-Supersports 5 | Malaysia |  | 
+Supersports 5 | Astro |  | 
 https://raw.githubusercontent.com/ZazerConer/IPTV_Malaysia/main/cont/sports/assp5/index.m3u8
