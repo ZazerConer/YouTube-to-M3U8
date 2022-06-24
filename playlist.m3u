@@ -1,16 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
-
-#EXTINF:-1 group-title="Astro" tvg-logo="https://i.imgur.com/SyUw2OI.png" tvg-id="01", Supersports 1
-url.m3u8
-
-#EXTINF:-1 group-title="Astro" tvg-logo="https://i.imgur.com/OXXHlYf.png" tvg-id="02", Supersports 2
-url.m3u8
-
-#EXTINF:-1 group-title="Astro" tvg-logo="https://i.imgur.com/AXeh66B.png" tvg-id="03", Supersports 3
-url.m3u8
-
-#EXTINF:-1 group-title="Astro" tvg-logo="https://i.imgur.com/SGkmCB9.png" tvg-id="04", Supersports 4
-url.m3u8
-
-#EXTINF:-1 group-title="Astro" tvg-logo="https://i.imgur.com/1eAGghE.png" tvg-id="05", Supersports 5
-url.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
