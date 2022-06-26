@@ -40,7 +40,52 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=5000000')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=700000')
+s = requests.Session()
+with open('../suketv_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+        else:
+            grab(line)
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=100000')
+s = requests.Session()
+with open('../suketv_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+        else:
+            grab(line)
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000')
+s = requests.Session()
+with open('../suketv_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+        else:
+            grab(line)
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
     for line in f:
