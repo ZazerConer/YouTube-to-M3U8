@@ -1,0 +1,1 @@
+ffmpeg -i big_bunny.mp4 -c:a aac -strict experimental -c:v libx264 -s 720x1280 -aspect 16:9 -f hls -hls_list_size 1000000 -hls_time 2 720_out.m3u8
