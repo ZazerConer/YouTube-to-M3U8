@@ -1,4 +1,4 @@
 pip install requests
 
 cd scripts/
-python SukeTV.py > ../SukeTV.ts
+python SukeTV.py > ../SukeTV.m3u8
