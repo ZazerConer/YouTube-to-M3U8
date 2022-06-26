@@ -41,7 +41,7 @@ def grab(url):
 
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
     for line in f:
