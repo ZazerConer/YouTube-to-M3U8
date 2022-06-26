@@ -41,7 +41,9 @@ def grab(url):
 
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2179072')
+print('#EXT-X-MEDIA-SEQUENCE:0')
+print('#EXT-X-TARGETDURATION:10')
+print('#EXTINF:1,')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
     for line in f:
@@ -56,7 +58,8 @@ with open('../suketv_info.txt') as f:
             tvg_id = line[3].strip()
         else:
             grab(line)
-            
+print('#EXT-X-ENDLIST')
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
