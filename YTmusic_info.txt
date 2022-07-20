@@ -1,38 +1,39 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+
 Justin Bieber - Ghost | Music | https://i.imgur.com/JXDqLvA.jpeg | 01 | 
-https://www.youtube.com/channel/UCFp8msa5uYsc
+https://www.youtube.com/channel/UCFp8msa5uYsc/live
 
 Glass Animals - Heat Waves | Music | https://i.imgur.com/iG3jG79.jpeg | 02 | 
-https://www.youtube.com/channel/UCmRD0-GxqHVo
+https://www.youtube.com/channel/UCmRD0-GxqHVo/live
 
 Olivia Rodrigo - good 4 u | Music | https://i.imgur.com/rvbqXvB.png | 03 | 
-https://www.youtube.com/channel/UCbyfiQA8HRaE
+https://www.youtube.com/channel/UCbyfiQA8HRaE/live
 
 Dua Lipa & Elton John - Cold Heart (Pnau remix) | Music | https://i.imgur.com/uh3iVZw.png | 04 | 
-https://www.youtube.com/channel/UCqod03PVTLqk
+https://www.youtube.com/channel/UCqod03PVTLqk/live
 
 Billie Eilish - Happier Than Ever | Music | https://i.imgur.com/phSQjD0.jpeg | 05 | 
-https://www.youtube.com/channel/UC5GJWxDKyk3A
+https://www.youtube.com/channel/UC5GJWxDKyk3A/live
 
 Nico Santos, Robin Schulz, Paul van Dyk, Topic - In Your Arms (For An Angel) | Music | https://i.imgur.com/5hjEXA8.jpeg | 06 | 
-https://www.youtube.com/channel/UCYbFGbEIxSsg
+https://www.youtube.com/channel/UCYbFGbEIxSsg/live
 
 WRLD & Justin Bieber - Wandered To LA | Music | https://i.imgur.com/rN8ordr.jpeg | 07 | 
-https://www.youtube.com/channel/UCioxhcuNSxZk
+https://www.youtube.com/channel/UCioxhcuNSxZk/live
 
 ClockClock - Sorry | Music | https://i.imgur.com/e8oqN2B.jpeg | 08 | 
-https://www.youtube.com/channel/UCCc_9OoBOw-4
+https://www.youtube.com/channel/UCCc_9OoBOw-4/live
 
 Stromae - L’enfer | Music | https://i.imgur.com/SbxFgCV.png | 09 | 
-https://www.youtube.com/channel/UCDO8NSL5Wyeg
+https://www.youtube.com/channel/UCDO8NSL5Wyeg/live
 
 Alesso & Katy Perry - When I'm Gone | Music | https://i.imgur.com/8oUX91L.png | 10 | 
-https://www.youtube.com/channel/UC-ZFfIoBbOfg
+https://www.youtube.com/channel/UC-ZFfIoBbOfg/live
 
 ACRAZE - Do It To It | Music | https://i.imgur.com/CKNCX5u.jpeg | 11 | 
-https://www.youtube.com/channel/UC6wwuEXlIniU
+https://www.youtube.com/channel/UC6wwuEXlIniU/live
 
 Dean Lewis - Half A Man | MP3 | https://i.imgur.com/wNIrXj8.jpeg | 12 | 
-https://www.youtube.com/channel/UCKua2dDhqzZw
+https://www.youtube.com/channel/UCKua2dDhqzZw/live
