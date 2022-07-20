@@ -1,0 +1,38 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Justin Bieber - Ghost | MP3 | png | 01 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Glass Animals - Heat Waves | MP3 | png | 02 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Olivia Rodrigo - good 4 u | MP3 | png | 03 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Dua Lipa ft. Elton John - Cold Heart (Pnau remix) | MP3 | png | 04 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Billie Eilish - Happier Than Ever | MP3 | png | 05 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Nico Santos, Robin Schulz, Paul van Dyk, Topic - In Your Arms (For An Angel) | MP3 | png | 06 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+WRLD ft. Justin Bieber - Wandered To LA | MP3 | png | 07 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+ClockClock - Sorry | MP3 | png | 08 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Stromae - L’enfer | MP3 | png | 09 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Katy Perry ft. Alesso - When I'm Gone | MP3 | png | 10 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+ACRAZE - Do It To It | MP3 | png | 11 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
+
+Dean Lewis - Half A Man | MP3 | png | 12 | 
+https://www.youtube.com/watch?v=Mvz3_9O4p4s
