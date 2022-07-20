@@ -40,11 +40,8 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=290490')
-#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
-s = requests.Session()
-with open('../suketv_info.txt') as f:
+#s = requests.Session()
+with open('../MP3_YT_SONG.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
