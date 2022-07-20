@@ -1,5 +1,15 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Suke TV | Malaysia | https://i.imgur.com/fMZRciY.jpg | 
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=847872,CODECS="avc1.420015,mp4a.40.2",NAME="380"
+https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
+https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
+https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.640028,mp4a.40.2",NAME="1080"
+https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
 https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
