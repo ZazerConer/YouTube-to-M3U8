@@ -40,8 +40,6 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=290490')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
     for line in f:
