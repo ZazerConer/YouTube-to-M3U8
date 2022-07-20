@@ -40,8 +40,8 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-#s = requests.Session()
-with open('../mp3_yt_music_info.txt') as f:
+s = requests.Session()
+with open('../YTmusic_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
