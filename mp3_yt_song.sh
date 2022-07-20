@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 SukeTV.py > ../stream/yt-music.m3u8
+python3 mp3-yt-song.py > ../stream/yt-music.m3u
 
 echo m3u grabbed
