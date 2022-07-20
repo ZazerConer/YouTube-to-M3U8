@@ -41,7 +41,7 @@ def grab(url):
 
 print('#EXTM3U')
 #s = requests.Session()
-with open('../mp3_yt_song.txt') as f:
+with open('../mp3_yt_music.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
