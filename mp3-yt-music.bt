@@ -1,4 +1,0 @@
-pip install requests
-
-cd scripts/
-python mp3-yt-music.py > ../YTmusic.m3u
