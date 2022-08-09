@@ -6,16 +6,13 @@
 <img src="https://badgen.net/badge/BernamaTV/Status/green?icon=github">
 </a>
 
-## YouTube_to_m3u8
+<h2 style="align:center">YouTube to m3u8</h2>
 
-**_M3U generator for YouTube_**
+**_M3U8 Generator For YouTube_**
 
-* Updated m3u links of YouTube live channels, auto-updated every 3 hours.
+* Updated m3u8 links of YouTube live channels, auto-updated every 3 hours.
 
 <br>
 <hr>
 
-#### Credits and full description :
-
-**[benmoose39](https://github.com/benmoose39/YouTube_to_m3u)**
-
+<h4>Credits and full description : [benmoose39](https://github.com/benmoose39/YouTube_to_m3u)</h4>
