@@ -6,7 +6,7 @@
 <img src="https://badgen.net/badge/BernamaTV/Status/green?icon=github">
 </a>
 
-<h2 style="align:center">YouTube to m3u8</h2>
+<h2 style="text-align:center;">YouTube to m3u8</h2>
 
 **_M3U8 Generator For YouTube_**
 
