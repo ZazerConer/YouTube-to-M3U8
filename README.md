@@ -15,4 +15,6 @@
 <br>
 <hr>
 
-<h4>Credits and full description : [benmoose39](https://github.com/benmoose39/YouTube_to_m3u)</h4>
+<h4>Credits and full description :</h4>
+
+**[benmoose39](https://github.com/benmoose39/YouTube_to_m3u)**
