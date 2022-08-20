@@ -1,3 +1,5 @@
+<a href="https://www.youtube.com"><img align="right" src="youtube-icon.png" width="48px" height="48px"></a>
+
 <a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/SukeTV.yml">
 <img src="https://badgen.net/badge/SukeTV/Status/green?icon=github">
 </a>
@@ -133,7 +135,7 @@ _Click the link :_
 
 <br>
 
-**4. Create a shell script file to install "_channel-name.py_" and auto generate a new file "_channel-name.m3u8_".**
+**4. Create a Shell script file to install "_channel-name.py_" and auto generate a new file "_channel-name.m3u8_".**
 
 **`channel-name.sh`**
 
@@ -225,7 +227,7 @@ _Re-edit :_ `channel-name` in the first part of the second line. `your.email@gma
 
 **You Are Done!**
 
-Now you can wait until the Action generates itself in 3 hours on the workflow or you can create your own test. 
+Now you can wait until the Actions generates itself in 3 hours on the workflows or you can create your own test. 
 
 **Like this :** --> Go to the **_Actions_** section --> click **_Select workflow_** click on the name of the workflow file you just created. --> Next below you will find the button **_Run workflow_** click that button --> finally click the green button **"Run workflow"**. 
 
