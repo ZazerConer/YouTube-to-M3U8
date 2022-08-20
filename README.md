@@ -8,7 +8,6 @@
 
 <br>
 <hr>
-<br>
 
 <h1 align="center">YouTube to M3U8</h1>
 
