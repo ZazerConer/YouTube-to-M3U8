@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1677522528/ei/AKL8Y-mQF8zAkgar3qvwCg/ip/13.91.160.242/id/_FIH5rxB-Ak.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-o097znze.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/J8/mm/44/mn/sn-o097znze/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1677500284/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAMFeHUAjb2I1wxaihDJSTBa5Y769JLt4ald0cHHa9EnUAiEAzBQ8A2UgA6vFAggbFWfKfdCkWO48SZprURYMGnRbx6o%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgC99lVdQNKHcuRbYHCpAuMUyznr5y-bZqn87EWwsVjRoCIA-4DC1JCP5ShTklxuGKsnImmSecBOs8scIJHELuH0f-/playlist/index.m3u8
+https://raw.githubusercontent.com/ZazerConer/YouTube_to_M3U8/main/assets/info.m3u8
