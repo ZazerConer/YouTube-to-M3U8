@@ -249,3 +249,14 @@ This is a failure :
 <hr>
 
 #### Credits : [benmoose39](https://github.com/benmoose39/YouTube_to_m3u)
+
+<hr>
+<br>
+
+### Another method
+
+<br>
+
+Get YouTube channel live URL using **[Cloudflare Workers](https://github.com/ZazerConer/YouTube-to-M3U8/tree/main/youtube-live-url)**
+
+<br>
