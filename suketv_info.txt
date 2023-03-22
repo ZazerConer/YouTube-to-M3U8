@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Suke TV | | | |
-https://m.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+beIN SPORTS HABER | | | |
+https://www.youtube.com/@beinsportsturkiye/live
