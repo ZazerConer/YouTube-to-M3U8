@@ -68,17 +68,13 @@ Example:
 
 <br>
 <br>
-
-**Note:** The link only works if the YouTube Channel is Live.
-
-<br>
 <hr>
 
 ### Get channel ID from YouTube Channel
 
 <br>
 
-You can get the channel ID **[Here](https://commentpicker.com/youtube-channel-id.php)**
+You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id.php)**
 
 <br>
 <hr>
@@ -88,5 +84,21 @@ You can get the channel ID **[Here](https://commentpicker.com/youtube-channel-id
 <br>
 
 Go to **[cloudflare.com](https://www.cloudflare.com)**, create your **Cloudflare account** and learn how to use **Workers** on Cloudflare. After that you can copy the above code and paste it there.
+
+<br>
+<br>
+<hr>
+
+If you don't have much time to do all this and are too lazy to build your own code, don't worry. 
+
+I've thought about it and made it for you. 
+
+<br> 
+
+**GO » [HERE](https://github.com/ZazerConer/liveYTmalaysia#add-youtube-live-url-with-m3u8-link)** 
+
+<br> 
+
+Just click on the link above, follow the steps there. You don't need to build the code from scratch, as it is already built and available to use via **M3U8 [Link](https://github.com/ZazerConer/liveYTmalaysia#m3u8-direct-link-for-youtube-live-channel)**. 
 
 <br>
