@@ -3,13 +3,13 @@
 <br>
 <hr>
 
-_Get YouTube Channel Live **URL** using **Cloudflare Workers**._
+Get YouTube Channel Live **_URL_** using **_Cloudflare Workers_**.
 
 <br>
 
 `Copy code below:`
 
-```javascript
+```js script
 addEventListener('fetch', (event) => {
   event.respondWith(
     handleRequest(event.request).catch(
@@ -95,10 +95,10 @@ I've thought about it and made it for you.
 
 <br> 
 
-**GO » [HERE](https://github.com/ZazerConer/liveYTmalaysia#add-youtube-live-url-with-m3u8-link)** 
+**GO » [HERE](https://github.com/ZazerConer/liveYTmalaysia/blob/main/README.md#add-youtube-live-url-with-m3u8-link)** 
 
 <br> 
 
-Just click on the link above, follow the steps there. You don't need to build the code from scratch, as it is already built and available to use via **M3U8 [Link](https://github.com/ZazerConer/liveYTmalaysia#m3u8-direct-link-for-youtube-live-channel)**. 
+Just click on the link above, follow the steps there. You don't need to build the code from scratch, as it is already built and available to use via **M3U8 [Link](https://github.com/ZazerConer/liveYTmalaysia/blob/main/README.md#m3u8-direct-link-for-youtube-live-channel)**. 
 
 <br>
