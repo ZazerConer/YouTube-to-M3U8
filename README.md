@@ -4,10 +4,6 @@
 <img src="https://badgen.net/badge/beIN SPORTS HABER/Status/green?icon=github">
 </a>
 
-<a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/BernamaTV.yml">
-<img src="https://badgen.net/badge/BernamaTV/Status/green?icon=github">
-</a>
-
 <br>
 <hr>
 
@@ -25,26 +21,25 @@
 
 **1. Create a file.**
 
-**`channel-name_info.txt`**
+**`channel-name.txt`**
 
 ```
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-channel-name | | | |
+channel-name | | |
 Paste here the URL you copied from the live youtube channel.
 ```
 
 <br>
 
-**2. Generate Python for "_channel-name_info.txt_".**
+**2. Generate Python for "_channel-name.txt_".**
 
 **`scripts/channel-name.py`**
 
-```js script
+```py script
 #! /usr/bin/python3
-
 
 import requests
 import os
@@ -88,7 +83,7 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('../channel-name_info.txt') as f:
+with open('../channel-name.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -107,7 +102,7 @@ if 'temp.txt' in os.listdir():
     os.system('rm watch*')
 ```
 
-_Re-edit :_ `https://raw.githubusercontent.com/user-name/repo-name/main/assets/info.m3u8` _and_ `../channel-name_info.txt`
+_Re-edit :_ `https://raw.githubusercontent.com/user-name/repo-name/main/assets/info.m3u8` _and_ `../channel-name.txt`
 
 <br>
 
@@ -127,7 +122,7 @@ staytuned1.ts
 #EXT-X-ENDLIST
 ```
 
-**Download this short video and upload it to the "_assets_" folder and place it together with the "_info.m3u8_" file. For example [here](https://github.com/ZazerConer/YouTube-to-M3U8/tree/main/assets)**
+**Download this short video and upload it to the "_assets_" folder and place it together with the `info.m3u8` file. For example [here](https://github.com/ZazerConer/YouTube-to-M3U8/tree/main/assets)**
 
 _Click the link :_
 - [staytuned0.ts](https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/assets/staytuned0.ts)
@@ -139,7 +134,7 @@ _Click the link :_
 
 **`channel-name.sh`**
 
-```js script
+```sh script
 #!/bin/bash
 
 echo $(dirname $0)
@@ -150,7 +145,7 @@ cd $(dirname $0)/scripts/
 
 python3 channel-name.py > ../channel-name.m3u8
 
-echo m3u grabbed
+echo m3u8 grabbed
 ```
 
 _Re-edit :_ `channel-name.py` _and_ `../channel-name.m3u8`
@@ -163,7 +158,7 @@ _Re-edit :_ `channel-name.py` _and_ `../channel-name.m3u8`
 
 --> Go to the **_Actions_** section --> click **_New_** then select **_set up a workflow yourself_** --> the last one create the name **`channel-name.yml`** and copy paste the script file below.
 
-```js script
+```yml script
 # This is a basic workflow to help you get started with Actions
 
 name: channel-name
@@ -227,7 +222,9 @@ _Re-edit :_ `channel-name` in the first part of the second line. `your.email@gma
 
 **You Are Done!**
 
-Now you can wait until the Actions generates itself in 3 hours on the workflows or you can create your own test. 
+<br>
+
+Now you can wait until the Actions generates itself in **3 hours** on the workflows or you can create your own test. 
 
 **Like this :** --> Go to the **_Actions_** section --> click **_Select workflow_** click on the name of the workflow file you just created. --> Next below you will find the button **_Run workflow_** click that button --> finally click the green button **"Run workflow"**. 
 
