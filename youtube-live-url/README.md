@@ -1,4 +1,4 @@
-## Build your own Cloadflare Workers.
+## Build your own Cloudflare Workers.
 
 <br>
 
