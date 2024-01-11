@@ -327,6 +327,10 @@ async function handleRequest (request) {
 <hr>
 <br>
 
+You can test the Workers script here **[Workers Playground](https://workers.cloudflare.com/playground)**
+
+<br>
+
 Don't forget to rename your **workers** > `yourCustomName.yourName.workers.dev`, it's up to you to make it an attractive _custom name_.
 
 To rename your workers: 
