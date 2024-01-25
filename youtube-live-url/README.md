@@ -369,8 +369,10 @@ https://workers.name.workers.dev/@handle-name.m3u8
 <br>
 <br>
 
-**Important:** The **Link** only works if the **YT** channel is Live.
+> [!IMPORTANT]  
+> The **Link** only works if the **YT** channel is Live.
 
+<br>
 <br>
 
 <details><summary><strong>YouTube Channel ID Finder</strong></summary>
@@ -429,6 +431,7 @@ https://workers.name.workers.dev/@handle-name.m3u8
 <br>
 <br>
 
-**CF Workers:** Request limit is 100,000 per day. If the limit is exceeded, the request returns an error.
+> [!NOTE]
+> **CF Workers:** Request limit is 100,000 per day. If the limit is exceeded, the request returns an error.
 
 <br>
