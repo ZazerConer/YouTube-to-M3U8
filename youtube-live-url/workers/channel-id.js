@@ -1,39 +1,39 @@
 addEventListener('fetch', (event) => {
   event.respondWith(
     handleRequest(event.request).catch(
-      (err) => new Response(err.message, { status: 500 })
+      (err) => new Response(err.message, {status: 500})
     )
   )
-})
+});
 
-async function handleRequest (request) {
-  const { pathname } = new URL(request.url)
+async function handleRequest(request) {
+  const {pathname} = new URL(request.url);
 
   if (pathname.startsWith('/channel/')) {
-    const channel = pathname.split('/')?.[2]?.split('.')?.[0]
+    const channelID = pathname.split('/')[2].split('.')[0];
 
-    if (channel !== '') {
-      const url = `https://www.youtube.com/channel/${channel}/live`
+    if (channelID !== '') {
+      const url = `https://www.youtube.com/channel/${channelID}/live`;
 
       const response = await fetch(url, {
         cf: {
           cacheTtl: 10800,
           cacheEverything: true
         }
-      })
+      });
 
       if (response.ok) {
-        const text = await response.text()
+        const text = await response.text();
         const stream = text.match(/(?<=hlsManifestUrl":").*\.m3u8/g)
 
-        return Response.redirect(stream, 302)
+        return Response.redirect(stream, 302);
       } else {
-        throw Error(`Youtube URL (${url}) failed with status: ${response.status}`)
+        throw Error(`Youtube URL (${url}) failed with status: ${response.status}`);
       }
     } else {
-      throw Error(`Channel ID not found: ${pathname}`)
+      throw Error(`Channel ID not found: ${pathname}`);
     }
   } else {
-    throw Error(`Path not found: ${pathname}`)
+    throw Error(`Path not found: ${pathname}`);
   }
 }
