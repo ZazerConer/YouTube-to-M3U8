@@ -235,7 +235,7 @@ async function handleRequest(request) {
   if (pathname.startsWith('/live/')) {
       const videoID = pathname.split('/')[2].split('.')[0];
     
-    if (videoId !== '') { 
+    if (videoID !== '') { 
       const url = `https://www.youtube.com/live/${videoID}/live`;
 
       const response = await fetch(url, {
