@@ -431,12 +431,16 @@ https://example.name.workers.dev/live/videoID.m3u8
 https://example.name.workers.dev/@handleName.m3u8
 ```
 
-<br> <br>
+<br><br>
 
 > [!IMPORTANT]  
 > The **Link** only works if the **YT** channel is Live.
 
-<br> <br>
+<br><br>
+
+#### Get the channel ID
+
+<br>
 
 <details><summary><strong>YouTube Channel ID Finder</strong></summary>
 
@@ -491,7 +495,15 @@ https://example.name.workers.dev/@handleName.m3u8
 
 </details>
 
-<hr> <br> <br>
+<br>
+
+OR
+
+<br>
+
+**[Info-Tube](https://github.com/ZazerConer/info-tube)**
+
+<br><hr><br><br>
 
 > [!NOTE]
 > **CF Workers:** Request limit is 100,000 per day. If the limit is exceeded, the request returns an error.
