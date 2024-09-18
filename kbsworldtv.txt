@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-beIN SPORTS HABER | | | |
-https://www.youtube.com/live/VCl1wO81VdM/live
+beIN SPORTS HABER | | |
+https://www.youtube.com/@kbsworldtv/live
