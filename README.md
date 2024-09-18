@@ -1,13 +1,6 @@
 <a href="https://www.youtube.com"><img align="right" src="youtube-icon.png" width="48px" height="48px"></a>
 
-<a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/kbsworldtv.yml">
-<img src="https://badgen.net/badge/KBS WORLD TV/Status/green?icon=github">
-</a>
-
-<br>
-<hr>
-
-<h1 align="center">YouTube to M3U8</h1>
+# YouTube to M3U8
 
 <h3 align="center"><i>M3U8 Generator For YouTube</i></h3>
 
